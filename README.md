@@ -1,2 +1,3 @@
 # hello-world
-Ist Git repo
+1st Git repo
+This is the starting point for SWD development
